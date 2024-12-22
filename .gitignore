@@ -1,0 +1,12 @@
+
+__pycache__/
+tests/__pycache__/
+.idea/
+.venv/
+
+# Unit test
+htmlcov/
+#.coverage
+.pytest_cache/
+
+.env
